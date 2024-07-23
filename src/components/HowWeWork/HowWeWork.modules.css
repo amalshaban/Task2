@@ -1,0 +1,53 @@
+.left{
+    background-image: url('../../assets/imgs/MaskGroup2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left p{
+    
+}
+.right{
+    background-image: url('../../assets/imgs/Rectangle.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.right h1{
+    color: white;
+    font-weight: 800;
+font-size: 100px;
+padding-left: 10rem;
+
+}
+
+.pics{
+    left: -300px;
+    position: absolute;
+}
+.pics img{
+    border-radius: 10px;
+    width: 225px;
+    height: 224px;
+    margin-right: 20px;
+}
+
+.right .btn{
+    margin-top: 3-0rem;
+    margin-bottom: 3rem;
+    border-radius: 1rem;
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.right p{
+    color: white;
+    padding: 5rem 15rem 5rem 10rem;
+}
+.right .btn{
+    margin-left: 10rem;
+}
+.left img{
+    width: 550px;
+    position: absolute;
+    left: -200px;
+    top:75px;
+}

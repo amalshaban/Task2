@@ -1,0 +1,44 @@
+.tasty-left{
+    background-image: url('../../assets/imgs/Rectangle.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 5rem;
+  }
+  .tasty-left button {
+    
+    border-radius: 1rem;
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  .fixedImg{
+    width: 300px;
+    right: 300px;
+    top: 100px;
+    position:absolute;
+  }
+  .tasty-right{
+    background-image: url('../../assets/imgs/MaskGroup.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .social{
+    background-image: url('../../assets/imgs/MaskGroup.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: right;
+    z-index: 99;
+    background-color: white;
+    padding: 2rem;
+
+  
+  }
+  .socialAndTel{
+  position:absolute;
+  bottom: 0px;
+  z-index: 99;
+  }
